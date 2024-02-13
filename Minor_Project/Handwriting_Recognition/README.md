@@ -10,3 +10,20 @@ This project aims to develop a handwriting recognition system using convolutiona
 * Model Architecture
 * Training
 * Evaluation
+
+### Introduction
+Handwriting recognition is the ability of a computer to interpret and recognize human handwriting. This project focuses on recognizing handwritten digits, which is a fundamental problem in the field of pattern recognition and computer vision.
+
+### Features
+1. Recognizes handwritten digits (0-9) accurately.
+2. Utilizes CNNs for feature extraction and classification.
+3. Implements data augmentation techniques for improved model generalization.
+4. Provides evaluation metrics such as accuracy for model performance assessment.
+
+### Requirements
+To run this project, you need:
+
+Python (>=3.6) 
+TensorFlow (>=2.0)
+NumPy
+Matplotlib
