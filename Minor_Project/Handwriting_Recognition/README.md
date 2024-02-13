@@ -43,7 +43,18 @@ Open the notebook file Handwriting Recognition.ipynb in Jupyter Notebook or Jupy
 ```
 jupyter notebook notebook.ipynb
 ```
-
-### Model Architecture 
+### Methodology 
+1. Data Acquisition : The project uses the MNIST dataset, which consists of 60,000 training images and 10,000 testing images of handwritten digits (0-9).
+  
+2. Data Augmentation : Data augmentation techniques are applied to increase the variability of the training data and improve the model's ability to generalize to unseen data.
+- Techniques such as rotation, shifting, shearing, zooming, and flipping are applied to the training images using the `ImageDataGenerator` class from TensorFlow/Keras.
+  
+3. Model Architecture
+The architecture is designed to effectively capture and learn the patterns present in handwritten digits.
 <img width="597" alt="Screenshot 2024-02-13 at 4 20 24 PM" src="https://github.com/Lajvi123/CODESTRING/assets/142981262/2816e84b-6d51-4acf-8c8e-8b5922911693">
 
+4. Training : Training is performed using the Adam optimizer with a categorical cross-entropy loss function.
+
+5. Evaluation : After training, the model's performance is evaluated using the original (non-augmented) testing data.
+
+   
