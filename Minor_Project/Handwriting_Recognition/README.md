@@ -23,7 +23,10 @@ Handwriting recognition is the ability of a computer to interpret and recognize 
 ### Requirements
 To run this project, you need:
 
-Python (>=3.6) 
-TensorFlow (>=2.0)
-NumPy
-Matplotlib
+[Python](https://www.python.org/downloads/)
+
+[TensorFlow (>=2.0)](https://pypi.org/project/tensorflow/)
+
+[Numpy](https://numpy.org/install/)
+
+[Matplotlib](https://matplotlib.org/)
