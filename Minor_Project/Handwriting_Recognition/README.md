@@ -30,3 +30,11 @@ To run this project, you need:
 [Numpy](https://numpy.org/install/)
 
 [Matplotlib](https://matplotlib.org/)
+
+### Installation
+Clone the repository and Install the required Python packages:
+```
+git clone https://github.com/Lajvi123/CODESTRING.git
+cd CODESTRING/Minor_Project/Handwriting_Recognition
+pip install -r requirements.txt
+```
