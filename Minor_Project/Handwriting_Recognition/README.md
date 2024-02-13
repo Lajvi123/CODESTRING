@@ -38,3 +38,8 @@ git clone https://github.com/Lajvi123/CODESTRING.git
 cd CODESTRING/Minor_Project/Handwriting_Recognition
 pip install -r requirements.txt
 ```
+### Usage 
+Open the notebook file Handwriting Recognition.ipynb in Jupyter Notebook or JupyterLab:
+```
+jupyter notebook notebook.ipynb
+```
