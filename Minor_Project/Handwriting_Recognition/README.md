@@ -45,3 +45,5 @@ jupyter notebook notebook.ipynb
 ```
 
 ### Model Architecture 
+<img width="597" alt="Screenshot 2024-02-13 at 4 20 24 PM" src="https://github.com/Lajvi123/CODESTRING/assets/142981262/2816e84b-6d51-4acf-8c8e-8b5922911693">
+
