@@ -43,3 +43,5 @@ Open the notebook file Handwriting Recognition.ipynb in Jupyter Notebook or Jupy
 ```
 jupyter notebook notebook.ipynb
 ```
+
+### Model Architecture 
