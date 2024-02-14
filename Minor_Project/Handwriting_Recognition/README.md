@@ -31,18 +31,7 @@ To run this project, you need:
 
 [Matplotlib](https://matplotlib.org/)
 
-### Installation
-Clone the repository and Install the required Python packages:
-```
-git clone https://github.com/Lajvi123/CODESTRING.git
-cd CODESTRING/Minor_Project/Handwriting_Recognition
-pip install -r requirements.txt
-```
-### Usage 
-Open the notebook file Handwriting Recognition.ipynb in Jupyter Notebook or JupyterLab:
-```
-jupyter notebook notebook.ipynb
-```
+
 ### Methodology 
 1. Data Acquisition : The project uses the MNIST dataset, which consists of 60,000 training images and 10,000 testing images of handwritten digits (0-9).
   
