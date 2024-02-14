@@ -38,7 +38,7 @@ To run this project, you need:
 2. Data Augmentation : Data augmentation techniques are applied to increase the variability of the training data and improve the model's ability to generalize to unseen data.
 - Techniques such as rotation, shifting, shearing, zooming, and flipping are applied to the training images using the `ImageDataGenerator` class from TensorFlow/Keras.
   
-3. Model Architecture
+3. Model Architecture : 
 The architecture is designed to effectively capture and learn the patterns present in handwritten digits.
 <img width="597" alt="Screenshot 2024-02-13 at 4 20 24 PM" src="https://github.com/Lajvi123/CODESTRING/assets/142981262/2816e84b-6d51-4acf-8c8e-8b5922911693">
 
