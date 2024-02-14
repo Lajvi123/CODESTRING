@@ -46,4 +46,6 @@ The architecture is designed to effectively capture and learn the patterns prese
 
 5. Evaluation : After training, the model's performance is evaluated using the original (non-augmented) testing data.
 
+After training the neural network, it is providing __99.37 percent__ accuracy. 
+
    
