@@ -17,5 +17,24 @@ To run the project, you need to have Python installed along with the following l
 * matplotlib
 * seaborn
 
+## Methodology 
+
+1. __Data Collection :__ Obtain a dataset containing housing information, including features like square footage, number of bedrooms, location, and median income of the area.
+
+2. __Data Preprocessing :__ Clean the dataset by handling missing values, encoding categorical variables, and scaling numerical features if needed.
+
+3. __Feature Selection :__ Select relevant features that have the most impact on house prices.
+
+4. __Model Selection :__ Choose a regression model to predict house prices.
+* Common models include Linear Regression, Decision Tree Regression, Random Forest Regression, and Gradient Boosting Regression.
+
+5. __Model Training :__ Train the selected model using the training dataset.
+
+6. __Model Evaluation :__ Evaluate the model's performance using the testing dataset and metrics like Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared.
+
+## Results 
+
+Visualize the results of the model using scatter plots of predicted vs. actual house prices.
+
 
 
