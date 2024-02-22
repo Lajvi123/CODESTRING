@@ -36,6 +36,8 @@ To run the project, you need to have Python installed along with the following l
 
 Visualize the results of the model using scatter plots of predicted vs. actual house prices.
 
+<img width="834" alt="Screenshot 2024-02-22 at 5 54 33 PM" src="https://github.com/Lajvi123/CODESTRING/assets/142981262/cf06b5c2-1878-4366-8d1c-ac74cc02e4fb">
+
 
 
 
