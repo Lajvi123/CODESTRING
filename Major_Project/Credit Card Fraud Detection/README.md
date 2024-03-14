@@ -16,4 +16,14 @@ The dataset used in this project can be found [here.](https://www.kaggle.com/cod
 4. Model Evaluation : The model is evaluated on the test set using metrics like accuracy, precision, recall, and F1-score.
 
 ## Results 
+
+* Detailed classification report is shown below:
+
 <img width="449" alt="Screenshot 2024-02-27 at 4 55 39 PM" src="https://github.com/Lajvi123/CODESTRING/assets/142981262/627d871d-f9fd-4a1e-b4da-dcd7b456b77e">
+
+* As we can see, Random Forest classifier provides the maximum accuracy for the fraud detection task.
+  
+<img width="408" alt="Screenshot 2024-03-14 at 2 26 49 PM" src="https://github.com/Lajvi123/CODESTRING/assets/142981262/4999dbb8-6979-437f-a561-01bdb724e34b">
+
+
+
